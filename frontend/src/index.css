@@ -1,4 +1,4 @@
-main {
+main, .page-loader__container {
     min-height: 80vh;
 }
 
